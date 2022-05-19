@@ -1,0 +1,45 @@
+
+.photo{
+    /* position: absolute; */
+    display: flex;
+    justify-content: center;
+    background-color: rgb(154, 154, 154);
+    margin-left: -12px;
+    height: fit-content;
+}
+.about{
+    /* position: absolute; */
+    width: 40%;
+    display: inline-block;
+}
+img{
+    
+    margin-left: -12px;
+    margin-top: -6px;
+    width: 200px;
+    height: 250px;
+    align-items: center;
+}
+#border{
+    /* position: relative; */
+    margin-left: 10px;
+    border-radius: 108px;
+    border: solid white 2px;
+    overflow: hidden;
+    height: 188px;
+
+}
+.main{
+    overflow: hidden;
+    box-shadow: 10px 10px 5px rgb(65, 64, 64);
+}
+.content{
+    /* position: relative; */
+    width: 60%;
+}
+.l{
+    text-decoration: none;
+}
+.a{
+    text-decoration: none;
+}
